@@ -1,19 +1,14 @@
+ 
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>
  
 <channels>
  
-
+   
 <channel>
-<name>[COLOR yellow][B]Stranger Things[/B][/COLOR] [COLOR red]IMDB: 9.2[/COLOR]</name>
-<thumbnail>https://bancodeseries.com.br/images/posters/10555.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/rodrigoludvigdasilva111/kodiiptv/master/STMT04</externallink>
-<fanart>https://1.bp.blogspot.com/-9VREhEcRbLk/V6Q0u5zmDEI/AAAAAAAAAnQ/Fz-dnwnXefcgtDW6Ql0H_6xZfusXw_P-QCLcB/s1600/strangerthings.png</fanart>
-</channel>
- 
-<channel>
-<name>[COLOR yellow][B]Supernatural[/B][/COLOR] [COLOR red][/COLOR]</name>
-<thumbnail>https://bancodeseries.com.br/images/posters/4376.jpg</thumbnail>
+<name>[COLOR yellow][B]Hannibal[/B][/COLOR]</name>
+<thumbnail>https://bancodeseries.com.br/images/posters/6533.jpg</thumbnail>
 <externallink></externallink>
-<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/09/cropped-supernatural-final-2.jpg</fanart>
+<fanart>https://wallpapersbq.com/images/hannibal/hannibal-wallpaper-1.jpg</fanart>
+<info></info>
 </channel>
