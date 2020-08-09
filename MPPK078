@@ -1,0 +1,30 @@
+ 
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+<channels>
+ 
+   
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]PIRATEKODI-INICIATIVA PIRATA [/COLOR]</name>
+<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
+<externallink>https://pastebin.com/edit/v83PuG4j</externallink>
+<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<info></info>
+</channel>
+ 
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES[/COLOR]</name>
+<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
+<externallink></externallink>
+<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<info></info>
+</channel>
+ 
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SERIES[/COLOR]</name>
+<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
+<externallink></externallink>
+<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<info></info>
+</channel>
