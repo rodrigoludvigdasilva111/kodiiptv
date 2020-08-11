@@ -6,15 +6,7 @@
  
    
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]PIRATEKODI-INICIATIVA PIRATA [/COLOR]</name>
-<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
-<externallink>https://pastebin.com/edit/v83PuG4j</externallink>
-<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
-<info></info>
-</channel>
- 
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES[/COLOR]</name>
+<name>[COLOR yellow][B]Seja bem vindo ao Pirate Kodi Torrents[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
 <thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
 <externallink></externallink>
 <fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
@@ -22,9 +14,58 @@
 </channel>
  
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SERIES[/COLOR]</name>
+<name>[COLOR yellow][B]CANAIS DE TV[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
 <thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/rodrigoludvigdasilva111/kodiiptv/master/MSLS</externallink>
+<externallink></externallink>
+<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<info>Algums Filmes</info>
+</channel>
+ 
+<channel>
+<name>[COLOR yellow][B]FILMES[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
+<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
+<externallink>https://pastebin.com/raw/1pxpWjbg</externallink>
+<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<info>Algums Filmes</info>
+</channel>
+ 
+<channel>
+<name>[COLOR yellow][B]SERIES[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
+<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
+<externallink>https://pastebin.com/raw/vmctNQmM</externallink>
+<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<info>Algums Filmes</info>
+</channel>
+ 
+<channel>
+<name>[COLOR yellow][B]SHOWS[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
+<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
+<externallink></externallink>
+<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<info>Algums Filmes</info>
+</channel>
+ 
+ 
+<channel>
+<name>[COLOR yellow][B]RADIOS [/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
+<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
+<externallink>https://pastebin.com/raw/DJfqXseT</externallink>
+<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<info></info>
+</channel>
+ 
+<channel>
+<name>[COLOR yellow][B]DESENHOS[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
+<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
+<externallink>https://pastebin.com/raw/fM2Q3Sb2</externallink>
+<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR yellow][B]NOVELAS[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
+<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
+<externallink>https://pastebin.com/raw/fqpWLP81</externallink>
 <fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
 <info></info>
 </channel>
